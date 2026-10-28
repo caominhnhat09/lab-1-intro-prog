@@ -2,7 +2,4 @@ print('You are my sunshine')
 print('My only sunshine')
 print('You make me happy')
 print('No song')
-<<<<<<< HEAD
-=======
-print('xem bên kia có conflict không')
->>>>>>> 3c426085fd63e93ca1db1431dcba2bd3c8adbef0
+print('check conflict')
