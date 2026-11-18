@@ -1,17 +1,17 @@
 NYC 311 ANALYTICS REPORT
 ========================================
 
-Total records: 46511
+Total records: 104856
 
 CLOSURE TIME (HOURS)
-count: 46411.00
-mean: 2.46
-median: 1.13
+count: 99555.00
+mean: 167.02
+median: 6.07
 min: 0.00
-max: 737.65
+max: 2905.81
 
 DATA QUALITY
-total_records: 46511
+total_records: 104856
 duplicate_rows: 0
 invalid_created_dates: 0
 invalid_closed_dates: 0
@@ -19,5 +19,10 @@ negative_closure_times: 0
 missing_status: 0
 
 REQUEST STATUS
-Closed: 46412
-In Progress: 99
+Closed: 99058
+Open: 1496
+In Progress: 3808
+Started: 41
+Assigned: 429
+Pending: 21
+Unspecified: 3
